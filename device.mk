@@ -359,8 +359,7 @@ PRODUCT_PACKAGES += \
     NabuSettingsProviderOverlay \
     NabuSystemUIOverlay \
     NabuWifiOverlay \
-    NabuLineagePlatformOverlay \
-    NabuLineageSettingsProviderOverlay
+    NabuLineagePlatformOverlay
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
